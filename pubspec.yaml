@@ -1,6 +1,6 @@
 name: weather_open_meteo_client
 description: weather_package
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/petyaas/weather_open_meteo_client
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.5
+  http: ^1.1.0
   build_runner: ^2.3.2
   json_annotation: ^4.7.0
 
